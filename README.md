@@ -10,8 +10,8 @@ This project helps users to manage their personal expenses with CRUD operations 
 - View all expenses  
 - Update existing expenses  
 - Delete expenses  
-- Store & retrieve expenses from **MySQL database**  
-- Export transactions to **JSON file**   
+- Store & retrieve expenses from MySQL database
+- Export transactions to JSON file
 
 ---
 
@@ -21,9 +21,6 @@ This project helps users to manage their personal expenses with CRUD operations 
 - JDBC for database connectivity
 - MySQL as the database
 - Jackson Library for JSON handling
-- java.time API for Date & Time
-- JUnit for unit testing
-- Logging (java.util.logging / Log4j)
 
 ---
 
