@@ -4,7 +4,7 @@ This project helps users to manage their personal expenses with CRUD operations 
 
 ---
 
-### Features
+### Features:
 
 - Add new expense/transaction  
 - View all expenses  
@@ -15,7 +15,7 @@ This project helps users to manage their personal expenses with CRUD operations 
 
 ---
 
-### Technologies Used
+### Technologies Used:
 
 - Java (Core Java, OOP, Collections, Exception Handling)
 - JDBC for database connectivity
@@ -27,7 +27,7 @@ This project helps users to manage their personal expenses with CRUD operations 
 
 ---
 
-### Project Structure
+### Project Structure:
 
 Expense-Tracker/
 │
@@ -43,9 +43,17 @@ Expense-Tracker/
 ├── output_ss/ (screenshots of output) 
 └── README.md
 
+### Database Setup:
+
+Run the following SQL commands in MySQL before running the app:
+
+=> CREATE DATABASE exp_tracker;
+
+=> create table transactions ( T_id int primary key auto_increment not null, T_title varchar(50) not null, T_amt int(50) not null, T_type varchar(50) not null, T_date date not null );
+
 ---
 
-### Output 
+### Output:
 
 ### Main operations (start)
 <img width="837" height="340" alt="main" src="https://github.com/user-attachments/assets/24f6e94e-4576-44ce-be1c-93429902ebf0" />
