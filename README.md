@@ -43,6 +43,8 @@ Expense-Tracker/
 ├── output_ss/ (screenshots of output) 
 └── README.md
 
+---
+
 ### Database Setup:
 
 Run the following SQL commands in MySQL before running the app:
