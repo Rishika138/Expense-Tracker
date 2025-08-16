@@ -46,7 +46,5 @@ Expense-Tracker/
 Output 
 
 ### Add Expense
-![Add Expense](./output_ss/main.png)
-
 <img width="837" height="340" alt="main" src="https://github.com/user-attachments/assets/24f6e94e-4576-44ce-be1c-93429902ebf0" />
 
